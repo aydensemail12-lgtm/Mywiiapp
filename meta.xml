@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<app version="1">
+	<name>Wii Game Completer</name>
+	<coder>Manus AI</coder>
+	<version>1.0</version>
+	<release_date>20260104</release_date>
+	<short_description>Completes Wii games to 100%</short_description>
+	<long_description>This application scans your WBFS folder for games and allows you to select a game to automatically complete it to 100% by replacing the save data on your NAND. Requires 100% save files in /apps/WiiGameCompleter/saves/.</long_description>
+	<ahbprot />
+</app>
